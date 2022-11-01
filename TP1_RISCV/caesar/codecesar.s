@@ -44,5 +44,5 @@ chaine:
 	.string "Hello world!"
 chaineEncodee: #Espace mémoire réservé pour contenir la nouvelle chaine
     .space 64
-dec:
+dec: #Décalage
     .dword 4
